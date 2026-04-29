@@ -1,0 +1,9 @@
+{
+  "name": "zk-identity-scripts",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Node.js helpers for the ZK Identity System",
+  "dependencies": {
+    "circomlibjs": "^0.1.7"
+  }
+}

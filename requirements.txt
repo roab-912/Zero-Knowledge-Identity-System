@@ -1,0 +1,8 @@
+# Pas de dépendances Python externes — stdlib uniquement.
+#
+# Dépendances externes requises :
+#   Node.js >= 16       https://nodejs.org
+#   snarkjs             npm install -g snarkjs
+#   circomlib           npm install circomlib          (racine du projet, pour circom -l)
+#   circomlibjs         cd scripts && npm install      (pour le helper Poseidon Python)
+#   circom              https://docs.circom.io/getting-started/installation/

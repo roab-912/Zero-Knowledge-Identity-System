@@ -1,0 +1,13 @@
+
+# Clés — ne jamais committer les zkeys
+keys/*.zkey
+keys/vkey.json
+
+# Node
+scripts/node_modules/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
